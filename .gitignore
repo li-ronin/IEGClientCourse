@@ -1,5 +1,15 @@
 # Visual Studio 2015 user specific files
 .vs/
+Build/*
+# Ignore binaries
+Binaries/
+# Ignore intermediate files
+Intermediate/
+# Ignore content files, but keep specific assets if needed
+# Alternatively, you could be more specific if you want to keep certain assets
+# !Content/YourSpecificAsset.uasset
+
+*.log
 
 # Compiled Object files
 *.slo
