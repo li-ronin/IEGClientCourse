@@ -14,12 +14,11 @@
 
 
 
-![Example Image](.\Lesson0\images\1.png)
+![Example Image](Lesson0/images/1.png)
 
 
 
-![Example Image](.\Lesson0\images\2.png)
-
+![Example Image](Lesson0/images/2.png)
 
 
 
